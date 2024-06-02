@@ -1,17 +1,4 @@
-/**************************************************************************************************************************************
-** SAKARYA ÜNİVERSİTESİ                                                                            
-** BİLGİSAYAR VE BİLİŞİM BİLİMLERİ FAKÜLTESİ                                
-** BİLİŞİM SİSTEMLERİ MÜHENDİSLİĞİ BÖLÜMÜ                                                                   
-** PROGRAMLAMAYA GİRİŞ DERSİ                                               
-** 2022-2023 GÜZ DÖNEMİ                                                                         
-**                                                                                                                                                                                        
-** ÖĞRENCİ ADI............: FURKAN GÜLTEKİN                                                                              
-** ÖĞRENCİ NUMARASI.......: B221200388
-** ÖDEV NO................: 2                                                                                                  
-** DERSİN ALINDIĞI GRUP...: A GRUBU
-**
-** ÖDEVİN KONUSU..........: Matris oluşturma, Matris işlemleri ve Şifreleme
-**************************************************************************************************************************************/
+
 #include <iostream>
 
 using namespace std;
